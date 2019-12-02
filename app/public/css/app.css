@@ -11356,3 +11356,17 @@ a.text-dark:focus {
   }
 }
 
+.form-row {
+  padding: 4px 0;
+}
+
+.form-row label {
+  width: calc(40% - 4px);
+}
+
+.form-row input {
+  border-radius: 6px;
+  border: 1px solid #dee2e6;
+  width: 60%;
+}
+
